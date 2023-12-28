@@ -1,5 +1,4 @@
 # UNP-Project-BI-with-Power-BI_SUPPLY-CHAIN
-# UNP-Project-BI-with-Power-BI_SUPPLY-CHAIN
 
 Completed this project as part of my  with Powerbi Intenship with United Network of Professionals (UNP)
 
